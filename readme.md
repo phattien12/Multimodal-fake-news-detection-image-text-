@@ -21,7 +21,7 @@ This project implements a <b>multimodal fake news detection system</b> using:
 <p>
 Fake news detection is a critical task due to the rapid spread of misinformation on social media. 
 Unlike traditional approaches that rely only on text, this project leverages both textual and visual information to improve performance. 
-Multimodal approaches have been shown to outperform text-only models (e.g., ~87% vs ~78% accuracy). :contentReference[oaicite:0]{index=0}
+Multimodal approaches have been shown to outperform text-only models (e.g., ~87% vs ~78% accuracy).
 </p>
 
 <hr>
@@ -51,7 +51,7 @@ Each sample contains:
 </ul>
 
 <p>
-This dataset includes thousands of tweets with associated images and binary labels (real/fake), widely used in multimodal misinformation research. :contentReference[oaicite:1]{index=1}
+This dataset includes thousands of tweets with associated images and binary labels (real/fake), widely used in multimodal misinformation research. 
 </p>
 
 <hr>
